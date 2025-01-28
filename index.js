@@ -2092,7 +2092,7 @@ function BeeSwarmSimulator(DATA){
             {pos:[-78,15.6575,33],rot:1,name:'Chestnut',stuff:[['sunflowerSeed',100],['enzymes',6],['paperPlanter',10],['redExtract',3],['bitterberry',100],['gingerbreadBear',2],['whirligig',20]]},
             {pos:[-25.5,12.5,-5],rot:-20/90,name:'Charcoal',stuff:[['roboPass',1],['blackBalloon',1],['stinger',10],['hardWax',6],['microConverter',8],['gingerbreadBear',4]]},
             {pos:[-8.275,14.5,-64],rot:0,name:'Gooey',stuff:[['loadedDice',3],['glue',10],['pinkBalloon',5],['neonberry',25],['satisfyingVial',1],['gumdrops',100]]},
-            {pos:[-63,30.5,91],rot:2,name:'Obnoxious',stuff:[['invigoratingVial',1],['magicBean',1],['purplePotion',1],['coconut',50],['tropicalDrink',1],['jellyBeans',5],['roboPass',1],['gingerbreadBear',8]]},
+            {pos:[-63,30.5,91],rot:2,name:'Obnoxious',stuff:[['snowflake',100000],['magicBean',100],['purplePotion',1],['coconut',50],['tropicalDrink',1],['jellyBeans',5],['roboPass',1],['gingerbreadBear',8]]},
             {pos:[70.5,9.5,-20],rot:-1.5,name:'Soothing',stuff:[['swirledWax',2],['superSmoothie',1],['fieldDice',10],['comfortingVial',2],['snowflake',50],['whiteBalloon',1],['glitter',20]]},
             {pos:[51,20.5,66],rot:-0.5,name:'Tropical',stuff:[['loadedDice',5],['causticWax',2],['roboPass',1],['pineapple',500],['gingerbreadBear',10],['coconut',75],['refreshingVial',1],['whiteBalloon',5],['tropicalDrink',20]]},
             {pos:[-39,25.5,80],rot:-0.5,name:'Mythic',stuff:[['redExtract',5],['mythicEgg',1],['blueExtract',5],['snowflake',50],['purplePotion',4],['motivatingVial',2]]},
