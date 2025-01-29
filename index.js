@@ -2094,8 +2094,8 @@ function BeeSwarmSimulator(DATA){
             {pos:[-8.275,14.5,-64],rot:0,name:'Gooey',stuff:[['loadedDice',3],['glue',10],['pinkBalloon',5],['neonberry',25],['satisfyingVial',1],['gumdrops',100]]},
             {pos:[-63,30.5,91],rot:2,name:'Obnoxious',stuff:[['snowflake',100000],['magicBean',100],['purplePotion',1],['coconut',50],['tropicalDrink',1],['jellyBeans',5],['roboPass',1],['gingerbreadBear',8]]},
             {pos:[70.5,9.5,-20],rot:-1.5,name:'Soothing',stuff:[['swirledWax',5],['superSmoothie',1],['giftedMythicEgg',100],['comfortingVial',2],['gingerbreadBear',1000],['whiteBalloon',100],['festiveBean',200]]},
-            {pos:[51,20.5,66],rot:-0.5,name:'Tropical',stuff:[['loadedDice',5],['causticWax',2],['roboPass',1],['pineapple',500],['gingerbreadBear',10],['coconut',75],['refreshingVial',1],['whiteBalloon',5],['tropicalDrink',20]]},
-            {pos:[-39,25.5,80],rot:-0.5,name:'Mythic',stuff:[['redExtract',5],['mythicEgg',1],['blueExtract',5],['snowflake',50],['purplePotion',4],['motivatingVial',2]]},
+            {pos:[51,20.5,66],rot:-0.5,name:'Tropical',stuff:[['loadedDice',200],['causticWax',100],['roboPass',1],['pineapple',500],['gingerbreadBear',10],['coconut',75],['refreshingVial',1],['whiteBalloon',5],['tropicalDrink',20]]},
+            {pos:[-39,25.5,80],rot:-0.5,name:'Mythic',stuff:[['redExtract',5],['mythicEgg',1],['blueExtract',5],['snowflake',50],['magicBean',10000],['motivatingVial',2]]},
             {pos:[-27,37.375,136],rot:0,name:'Festive',stuff:[['redBalloon',4],['gingerbreadBear',6],['festiveBean',2],['redDrive',5],['ticket',250],['roboPass',1],['snowflake',50]]},
             {pos:[-10,47.5,71],rot:0,name:'Mondo',stuff:[['starTreat',1],['mythicEgg',5],['blackBalloon',3],['glitchedDrive',10],['superSmoothie',10],['giftedMythicEgg',1],['gingerbreadBear',10],['festiveBean',5],['turpentine',1],['pinkBalloon',5]]},
         ]
