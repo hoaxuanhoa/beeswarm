@@ -27359,7 +27359,7 @@ function BeeSwarmSimulator(DATA){
         gummyBear:{
             
             portionLength:11,
-            portionsDone:0,
+            portionsDone:11,
             seed:0,
             repeatable:true,
             viewMatrix:[0,1005,1002,0,-0.1],
